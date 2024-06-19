@@ -192,5 +192,11 @@ use_cpu: false
 ## Citation
 
 ```
-TODO
+@misc{lu2024online,
+      title={Online Merging Optimizers for Boosting Rewards and Mitigating Tax in Alignment}, 
+      author={Keming Lu and Bowen Yu and Fei Huang and Yang Fan and Runji Lin and Chang Zhou},
+      year={2024},
+      eprint={2405.17931},
+      archivePrefix={arXiv},
+}
 ```
